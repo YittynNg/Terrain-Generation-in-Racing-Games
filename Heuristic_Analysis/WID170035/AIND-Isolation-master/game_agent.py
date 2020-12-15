@@ -38,7 +38,7 @@ def custom_score(game, player):
     """
 
     # TODO: finish this function!
-    return weighted_chances_heuristic(game, player)
+    return offensive_to_defensive(game, player)
 
 
 def aggressive_heuristic(game, player):
