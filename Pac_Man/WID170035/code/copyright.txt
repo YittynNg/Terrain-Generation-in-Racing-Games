@@ -1,0 +1,8 @@
+You may use this code for any non-commercial purposes. This copyright file must always
+be included with the code. Feel free to modify the code but deviations from the original 
+should be clearly documented. Please note: this software comes with absolutely no warranty. 
+You are using this software at your own risk and we cannot take any responsibilities for 
+potential losses caused by the use of this software.
+
+Competition website: www.pacmanvghosts.co.uk
+Competition organisers: Piers R. Williams, Diego Perez-Liebana and Simon Lucas (University of Essex)
