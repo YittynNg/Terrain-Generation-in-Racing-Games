@@ -1,8 +1,8 @@
 # Build a Game-playing Agent
 
 ## Heuristic Analysis Report
-[Heuristic Analysis Report can be found here](./heuristic_analysis.pdf).
-[Heuristic Analysis Report with custom agents (Defensive2Offensive and Offensive2Defensive) can be found here](./my_result_report.pdf).
+- [Heuristic Analysis Report can be found here](./heuristic_analysis.pdf).
+- [Heuristic Analysis Report with custom agents (Defensive2Offensive and Offensive2Defensive) can be found here](./my_result_report.pdf).
 
 ## Synopsis
 
