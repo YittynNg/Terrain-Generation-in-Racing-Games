@@ -3,6 +3,7 @@
 Original [code](https://catlikecoding.com/unity/tutorials/maze/) by Catlike Coding
  
 Maze generation using Recursive Backtracking Algorithm
+<br>
 ![](RBA.JPG)
 
 Maze generation using Prim's Algorithm
