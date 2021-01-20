@@ -13,5 +13,5 @@
 
 | Project Description                              | Ng Yit Tyn & Khaw Huai Yu |
 |--------------------------------------------------|---------------------------|
-| mini_project: Terrain-Generation-in-Racing-Games |             /             |
+| mini_project: Terrain-Generation                 |             /             |
 
