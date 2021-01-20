@@ -10,5 +10,8 @@
 | Pac_Man                                          |     /      |              |
 | Heuristic_Analysis                               |     /      |              |
 | Maze_Generator                                   |     /      |              |
-| mini_project: Terrain-Generation-in-Racing-Games |                           |
+
+| Project Description                              | Ng Yit Tyn & Khaw Huai Yu |
+|--------------------------------------------------|---------------------------|
+| mini_project: Terrain-Generation-in-Racing-Games |             /             |
 
