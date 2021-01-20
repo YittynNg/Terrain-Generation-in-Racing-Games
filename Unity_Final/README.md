@@ -16,17 +16,17 @@ This project is build by using Unity.
 * River Settings - To add riverbank in terrain
 * Rough Settings - To create rougher terrain surface
 * Smooth Settings - To create smoother terrain surface
-The features' settings outline can be referred [here](/img/setting.JPG). Feel free to test on different value
+The features' settings outline can be referred [here](img/setting.JPG). Feel free to test on different value
 
 ## Methodology
 This is a sample image of generated terrain
 
-![Shaded](/img/shaded.JPG)
+![Shaded](img/shaded.JPG)
 
 To create terrain, Perlin Noise will create a "random" number with its calculation to provide different height for different locations.
 As you can see in the image below, the vertices will be plucked to the heights created.
 
-![Wireframe](/img/wireframe.JPG)
+![Wireframe](img/wireframe.JPG)
 
 
 ## Experimental Results
